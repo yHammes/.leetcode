@@ -1,3 +1,12 @@
+# DSA Studies 📚
+
+This repository is for my personal **Data Structures & Algorithms (DSA)** practice.
+
+I’m using it to:
+- Implement algorithms
+- Solve problems (e.g., LeetCode)
+- Study and practice DSA concepts
+
 ## Leetcode
 --
 
