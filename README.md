@@ -10,7 +10,7 @@ I’m using it to:
 ## Leetcode
 --
 
-## Sorting
+## Sorting - Algorithms
 ### Quick Sort
 Quick Sort is a divide-and-conquer sorting algorithm used to sort an array;
 
